@@ -10,8 +10,8 @@ Example:
     python -m unittest tests/test_chatbot.py
 """
 
-__author__ = "COMP-1327 Faculty"
-__version__ = "1.0.2025"
+__author__ = "Ivan Estropigan"
+__version__ = "March 24, 2025"
 
 from unittest import TestCase, main
 from unittest.mock import patch
